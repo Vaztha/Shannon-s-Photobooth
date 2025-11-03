@@ -3,13 +3,13 @@ const bubbleContainer = document.querySelector(".bubble-container");
 
 // get images
 const bubbleImages = [
-  "../Assets/fish-photobooth/camerapage/bubbles/bubble4.png",
-  "../Assets/fish-photobooth/camerapage/bubbles/bubble1.png",
-  "../Assets/fish-photobooth/camerapage/bubbles/bubble2.png",
-  "../Assets/fish-photobooth/camerapage/bubbles/bubble3.png",
-  "../Assets/fish-photobooth/camerapage/bubbles/bubble4.png",
-  "../Assets/fish-photobooth/camerapage/bubbles/bubble5.png",
-  "../Assets/fish-photobooth/camerapage/bubbles/bubble4.png"
+  "https://i.postimg.cc/8z8Pz7Yz/bubble4.png",
+  "https://i.postimg.cc/13x538dQ/bubble1.png",
+  "https://i.postimg.cc/Z5kK5WQK/bubble2.png",
+  "https://i.postimg.cc/2Sp8S1t5/bubble3.png",
+  "https://i.postimg.cc/8z8Pz7Yz/bubble4.png",
+  "https://i.postimg.cc/T38Y3Ksw/bubble5.png",
+  "https://i.postimg.cc/8z8Pz7Yz/bubble4.png"
 ];
 
 
