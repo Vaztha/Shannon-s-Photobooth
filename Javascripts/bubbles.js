@@ -12,6 +12,7 @@ const bubbleImages = [
   "../Assets/fish-photobooth/camerapage/bubbles/bubble4.png"
 ];
 
+
 // create bubble
 const createBubble = () => {
   const bubble = document.createElement("img");
